@@ -1,9 +1,9 @@
 {
-  "name": "supabase-backup-cleaner",
+  "name": "supabase-backup",
   "version": "1.0.0",
-  "type": "module",
   "dependencies": {
     "@supabase/supabase-js": "^2.43.3",
     "nodemailer": "^6.9.9"
   }
 }
+
